@@ -35,6 +35,7 @@ Explore and practice common Flutter UI layouts, widgets, and state management te
 
 ## 🧱 Project Structure
 
+```
 lib/
 ├── main.dart
 ├── ui/
@@ -44,7 +45,7 @@ lib/
 ├── providers/
 │   └── api_provider.dart
 └── models/
-
+```
 ---
 
 ## 🧠 Learnings
