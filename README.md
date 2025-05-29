@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📱Flutter UI with Riverpod
 
 This is a dedicated **learning project** built with Flutter, focused on mastering **UI layouts**, **state management using Riverpod**, and exploring a wide array of commonly used widgets. It serves as a personal sandbox for hands-on practice and understanding widget behavior under various conditions.
@@ -65,3 +66,21 @@ lib/
 -   [`flutter_riverpod`](https://pub.dev/packages/flutter_riverpod)
 -   [`http`](https://pub.dev/packages/http)
 -   [`cached_network_image`](https://pub.dev/packages/cached_network_image) (for robust network image loading)
+=======
+# api_riverpod
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> master
